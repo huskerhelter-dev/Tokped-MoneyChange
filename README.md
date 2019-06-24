@@ -2,13 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A mobile web test by Evan Tirta Wahyudi
 
-### `npm install`
-
-before running the app, please run an 'npm install' to install any packages this project depends on.
-
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+before running the app, please run an 'npm install' to install any packages this project depends on.
 
 ### `npm start`
 
